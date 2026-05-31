@@ -166,12 +166,10 @@ The first large-scale NER dataset for Urdu legal texts — enabling AI-powered l
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=cheemasohail&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cheemasohail&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=false" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=scheema286&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=scheema286&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt=""/>
 
-<br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheemasohail&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 
 </div>
 
