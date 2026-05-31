@@ -117,32 +117,29 @@ The first large-scale NER dataset for Urdu legal texts — enabling AI-powered l
 ---
 
 ## 🛠️ Technical Stack
-
+ 
 <div align="center">
-
-**NLP & AI**
-
+<p><strong>🤖 NLP &amp; AI</strong></p>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
-
-**Data & Research**
-
+ 
+<br/>
+<p><strong>📊 Data &amp; Research</strong></p>
 <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-
-**Dev Tools**
-
+ 
+<br/>
+<p><strong>⚙️ Dev Tools</strong></p>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/></a>
-
+ 
 </div>
-
 ---
 
 ## 🎓 Education
@@ -200,15 +197,12 @@ The first large-scale NER dataset for Urdu legal texts — enabling AI-powered l
 ---
 
 <div align="center">
-
-### 💬 Research Philosophy
-
-*"Urdu is spoken by 230 million people.*
-*Building NLP benchmarks and datasets for Urdu is not just research —*
-*it is building a bridge between AI and 230 million voices."*
-
+<h3>💬 Research Philosophy</h3>
+ 
+<p><em>"Urdu is spoken by 230 million people.<br/>
+Building NLP benchmarks and datasets for Urdu is not just research —<br/>
+it is building a bridge between AI and 230 million voices."</em></p>
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
 </div>
+
