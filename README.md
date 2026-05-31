@@ -39,18 +39,16 @@ researcher = {
 ---
 
 ## 🎯 Research Interests
-
+ 
 <div align="center">
-
-![Multilingual NLP](https://img.shields.io/badge/🌍%20Multilingual%20NLP%20Evaluation-1a1a2e?style=for-the-badge)
-![Low-Resource NLP](https://img.shields.io/badge/🧠%20Low--Resource%20NLP-0f3460?style=for-the-badge)
-![Benchmark Development](https://img.shields.io/badge/📊%20Benchmark%20Development-16213e?style=for-the-badge)
-![Multimodal Reasoning](https://img.shields.io/badge/🖼️%20Multimodal%20Reasoning-0e7c6b?style=for-the-badge)
-![Computational Linguistics](https://img.shields.io/badge/🗣️%20Computational%20Linguistics-2c3e50?style=for-the-badge)
-![Machine Translation](https://img.shields.io/badge/🌐%20Machine%20Translation%20Eval-8e44ad?style=for-the-badge)
-![Corpus Linguistics](https://img.shields.io/badge/📚%20Corpus%20Linguistics-c0392b?style=for-the-badge)
-![Robustness](https://img.shields.io/badge/🔍%20NLP%20Robustness-2980b9?style=for-the-badge)
-
+<img src="https://img.shields.io/badge/🌍 Multilingual NLP Evaluation-1a1a2e?style=for-the-badge&logoColor=white" alt="Multilingual NLP"/>
+<img src="https://img.shields.io/badge/🧠 Low--Resource NLP-0f3460?style=for-the-badge&logoColor=white" alt="Low-Resource NLP"/>
+<img src="https://img.shields.io/badge/📊 Benchmark Development-16213e?style=for-the-badge&logoColor=white" alt="Benchmark Development"/>
+<img src="https://img.shields.io/badge/🖼 Multimodal Reasoning-0e7c6b?style=for-the-badge&logoColor=white" alt="Multimodal Reasoning"/>
+<img src="https://img.shields.io/badge/🗣 Computational Linguistics-2c3e50?style=for-the-badge&logoColor=white" alt="Computational Linguistics"/>
+<img src="https://img.shields.io/badge/🌐 Machine Translation Eval-8e44ad?style=for-the-badge&logoColor=white" alt="Machine Translation"/>
+<img src="https://img.shields.io/badge/📚 Corpus Linguistics-c0392b?style=for-the-badge&logoColor=white" alt="Corpus Linguistics"/>
+<img src="https://img.shields.io/badge/🔍 NLP Robustness-2980b9?style=for-the-badge&logoColor=white" alt="NLP Robustness"/>
 </div>
 
 ---
